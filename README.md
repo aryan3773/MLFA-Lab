@@ -11,3 +11,6 @@ The topics covered during the semester are given in the following order:
 5. Decision Tree
 6. Logistic Regression
 7. Naive Bayes
+8. Bagging
+9. Classification
+10. Deep Feedforward Net
